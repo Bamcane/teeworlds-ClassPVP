@@ -1,0 +1,260 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: teeworlds-infnext\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-13 15:05+0800\n"
+"PO-Revision-Date: 2023-05-10 13:01\n"
+"Last-Translator: \n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: teeworlds-infnext\n"
+"X-Crowdin-Project-ID: 578365\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: infnext.pot\n"
+"X-Crowdin-File-ID: 25\n"
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:1735
+msgid "'{str:OldName}' changed name to '{str:NewName}'"
+msgstr "'{str:OldName}' 已改名为'{str:NewName}'"
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:1538
+msgid "'{str:Option}' isn't an option on this server"
+msgstr "'{str:Option}' 不是此服务器上的一个选项"
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:1589
+msgid "'{str:Player}' called for vote to kick '{str:Player2}' ({str:Reason})"
+msgstr "'{str:Player}'提议踢出'{str:Player2}' ({str:Reason})"
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:1583
+msgid "'{str:Player}' called for vote to kick you"
+msgstr "'{str:Player}' 发起投票踢你"
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:1627
+msgid "'{str:Player}' called for vote to move '{str:Player2}' to spectators ({str:Reason})"
+msgstr "'{str:Player}'提议移动'{str:Player2}'到旁观 ({str:Reason})"
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:1524
+msgid "'{str:Player}' called vote to change server option '{str:Option}' ({str:Reason})"
+msgstr "'{str:Player}' 发起投票更改服务器选项 '{str:Option}' ({str:Reason})"
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:934
+msgid "'{str:Player}' entered and joined the {lstr:Team}"
+msgstr "'{str:Player}' 连接服务器并加入{lstr:Team}"
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/player.cpp:285
+msgid "'{str:Player}' has left the game"
+msgstr "'{str:Player}'离开了游戏"
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/player.cpp:280
+msgid "'{str:Player}' has left the game ({str:Reason})"
+msgstr "'{str:Player}'离开了游戏 ({str:Reason})"
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/player.cpp:372
+msgid "'{str:Player}' joined the {lstr:Team}"
+msgstr "'{str:Player}' 加入了{lstr:Team}"
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:2355
+msgid "Available languages: {str:List}"
+msgstr "可用语言︰ {str:List}"
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:2299
+msgid "Based on the concept of infNext mod by pure_luck"
+msgstr "基于 pure_luck 所做的新感染模式"
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/classpvp/classes/captain.cpp:8
+msgid "Captain"
+msgstr "船长"
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:939
+msgid "Help us to translation mod on Crowdin!"
+msgstr "帮助我们在Crowdin上进行翻译！"
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:1568
+msgid "Invalid client id to kick"
+msgstr "无效的客户端 ID"
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:1616
+msgid "Invalid client id to move"
+msgstr "无效的客户端 ID"
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:1715
+msgid "Invalid spectator id used"
+msgstr "无效的旁观者ID"
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:1560
+msgid "Kick voting requires {int:Num} players on the server"
+msgstr "发起踢人投票需要有 {int:Num} 名玩家"
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:2332
+msgid "Language successfully switched to English"
+msgstr "语言已成功切换到中文"
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/classpvp/classes/looper.cpp:9
+msgid "Looper"
+msgstr "循环者"
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/classpvp/classes/medic.cpp:9
+msgid "Medic"
+msgstr "医疗兵"
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:1694
+msgid "Only {int:Num} active players are allowed"
+msgstr "只允许 {int:Num} 名玩家游玩"
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:1546
+msgid "Server does not allow voting to kick players"
+msgstr "服务器不允许投票踢玩家"
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:1609
+msgid "Server does not allow voting to move players to spectators"
+msgstr "服务器不允许投票将玩家移动到旁观者"
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/classpvp/classes/sniper.cpp:9
+msgid "Sniper"
+msgstr "狙击手"
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:1493
+msgid "Spectators aren't allowed to start a vote."
+msgstr "旁观者不能发起投票"
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:1689
+msgid "Teams must be balanced, please join other team"
+msgstr "队伍必须平衡, 请加入其他队伍"
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:2298
+msgid "Thanks {str:List}"
+msgstr "感谢 {str:List}"
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamemodes/ctf.cpp:198
+#, fuzzy
+msgid "The {str:Team} flag was captured by '{str:Player}'!"
+msgstr "你被'{str:Player}' 感染了"
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamemodes/ctf.cpp:191
+msgid "The {str:Team} flag was captured by '{str:Player}'! ({sec:Time})"
+msgstr ""
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:1673
+msgid "Time to wait before changing team: {sec:Time}"
+msgstr "必须等待{sec:Time}才能更改队伍"
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:2340
+msgid "Unknown language or no input language code"
+msgstr "未知语言或没有输入语言代码"
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:770
+msgid "Vote aborted"
+msgstr "投票中止"
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:833
+msgid "Vote failed"
+msgstr "投票失败"
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:825
+msgid "Vote passed"
+msgstr "投票通过"
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:1499
+msgid "Wait for current vote to end before calling a new one."
+msgstr "等待当前投票结束后再发起一个新投票。"
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/player.cpp:452
+msgid "You are '{lstr:Class}'"
+msgstr "你是 '{lstr:Class}'"
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/classpvp/effects/dehydration.cpp:17
+msgid "You are dehydrated: {sec:Time}"
+msgstr "你已脱水： {sec:Time}"
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:1582
+msgid "You can't kick admins"
+msgstr "你不能踢管理员"
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:1573
+msgid "You can't kick yourself"
+msgstr "你不能踢出你自己"
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:1621
+msgid "You can't move yourself"
+msgstr "你不能移动自己"
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:1507
+msgid "You must wait {sec:Time} before making another vote"
+msgstr "你必须等待 {sec:Time} 才能再进行一次投票"
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:2172
+msgid "admin forced server option '{str:Value}' ({str:Reason})"
+msgstr "管理通过服务器选项 '{str:Value}' ({str:Reason})"
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:2258
+msgid "admin forced vote no"
+msgstr "管理员否决投票"
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:2253
+msgid "admin forced vote yes"
+msgstr "管理员通过投票"
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:2220
+msgid "admin moved '{str:Player}' to spectator ({str:Reason})"
+msgstr "管理员移动'{str:Player}'到旁观者({str:Reason})"
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamemodes/ctf.cpp:192 /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamemodes/ctf.cpp:199
+#, fuzzy
+msgctxt "on blue flag captured"
+msgid "blue"
+msgstr "蓝队"
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontroller.cpp:205
+msgid "blue team"
+msgstr "蓝队"
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontroller.cpp:207
+msgid "game"
+msgstr "游戏"
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamemodes/ctf.cpp:192 /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamemodes/ctf.cpp:199
+msgctxt "on red flag captured"
+msgid "red"
+msgstr ""
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontroller.cpp:203
+msgid "red team"
+msgstr "红队"
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontroller.cpp:209
+msgid "spectators"
+msgstr "旁观者"
+
+#~ msgid "'{str:PlayerName}' has been infected"
+#~ msgstr "'{str:PlayerName}' 被感染了"
+
+#~ msgid "Boomer"
+#~ msgstr "爆炸者"
+
+#~ msgid "Hunter"
+#~ msgstr "猎人"
+
+#~ msgid "INF| Humans win!"
+#~ msgstr "INF| 人类胜利！"
+
+#~ msgid "INF| Infects win!"
+#~ msgstr "INF| 感染胜利！"
+
+#~ msgid "Infection is coming in {sec:Time}!"
+#~ msgstr "感染将在{sec:Time}后来临!"
+
+#~ msgid "Smoker"
+#~ msgstr "吸烟者"
+
+#~ msgid "The game has been canceled"
+#~ msgstr "游戏已经被取消"
+
+#~ msgid "Wait game start!"
+#~ msgstr "等待游戏开始!"
+
+#~ msgid "You infected '{str:Player}'"
+#~ msgstr "你感染了'{str:Player}'"

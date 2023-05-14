@@ -1,0 +1,234 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-13 15:43+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:1735
+msgid "'{str:OldName}' changed name to '{str:NewName}'"
+msgstr ""
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:1538
+msgid "'{str:Option}' isn't an option on this server"
+msgstr ""
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:1589
+msgid "'{str:Player}' called for vote to kick '{str:Player2}' ({str:Reason})"
+msgstr ""
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:1583
+msgid "'{str:Player}' called for vote to kick you"
+msgstr ""
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:1627
+msgid ""
+"'{str:Player}' called for vote to move '{str:Player2}' to spectators ({str:"
+"Reason})"
+msgstr ""
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:1524
+msgid ""
+"'{str:Player}' called vote to change server option '{str:Option}' ({str:"
+"Reason})"
+msgstr ""
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:934
+msgid "'{str:Player}' entered and joined the {lstr:Team}"
+msgstr ""
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/player.cpp:285
+msgid "'{str:Player}' has left the game"
+msgstr ""
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/player.cpp:280
+msgid "'{str:Player}' has left the game ({str:Reason})"
+msgstr ""
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/player.cpp:372
+msgid "'{str:Player}' joined the {lstr:Team}"
+msgstr ""
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:2355
+msgid "Available languages: {str:List}"
+msgstr ""
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:2299
+msgid "Based on the concept of infNext mod by pure_luck"
+msgstr ""
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/classpvp/classes/captain.cpp:8
+msgid "Captain"
+msgstr ""
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:939
+msgid "Help us to translation mod on Crowdin!"
+msgstr ""
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:1568
+msgid "Invalid client id to kick"
+msgstr ""
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:1616
+msgid "Invalid client id to move"
+msgstr ""
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:1715
+msgid "Invalid spectator id used"
+msgstr ""
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:1560
+msgid "Kick voting requires {int:Num} players on the server"
+msgstr ""
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:2332
+msgid "Language successfully switched to English"
+msgstr ""
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/classpvp/classes/looper.cpp:9
+msgid "Looper"
+msgstr ""
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/classpvp/classes/medic.cpp:9
+msgid "Medic"
+msgstr ""
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:1694
+msgid "Only {int:Num} active players are allowed"
+msgstr ""
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:1546
+msgid "Server does not allow voting to kick players"
+msgstr ""
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:1609
+msgid "Server does not allow voting to move players to spectators"
+msgstr ""
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/classpvp/classes/sniper.cpp:9
+msgid "Sniper"
+msgstr ""
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:1493
+msgid "Spectators aren't allowed to start a vote."
+msgstr ""
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:1689
+msgid "Teams must be balanced, please join other team"
+msgstr ""
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:2298
+msgid "Thanks {str:List}"
+msgstr ""
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamemodes/ctf.cpp:198
+msgid "The {str:Team} flag was captured by '{str:Player}'!"
+msgstr ""
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamemodes/ctf.cpp:191
+msgid "The {str:Team} flag was captured by '{str:Player}'! ({sec:Time})"
+msgstr ""
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:1673
+msgid "Time to wait before changing team: {sec:Time}"
+msgstr ""
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:2340
+msgid "Unknown language or no input language code"
+msgstr ""
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:770
+msgid "Vote aborted"
+msgstr ""
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:833
+msgid "Vote failed"
+msgstr ""
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:825
+msgid "Vote passed"
+msgstr ""
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:1499
+msgid "Wait for current vote to end before calling a new one."
+msgstr ""
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/player.cpp:452
+msgid "You are '{lstr:Class}'"
+msgstr ""
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/classpvp/effects/dehydration.cpp:17
+msgid "You are dehydrated: {sec:Time}"
+msgstr ""
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:1582
+msgid "You can't kick admins"
+msgstr ""
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:1573
+msgid "You can't kick yourself"
+msgstr ""
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:1621
+msgid "You can't move yourself"
+msgstr ""
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:1507
+msgid "You must wait {sec:Time} before making another vote"
+msgstr ""
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:2172
+msgid "admin forced server option '{str:Value}' ({str:Reason})"
+msgstr ""
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:2258
+msgid "admin forced vote no"
+msgstr ""
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:2253
+msgid "admin forced vote yes"
+msgstr ""
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontext.cpp:2220
+msgid "admin moved '{str:Player}' to spectator ({str:Reason})"
+msgstr ""
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamemodes/ctf.cpp:192
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamemodes/ctf.cpp:199
+msgctxt "on blue flag captured"
+msgid "blue"
+msgstr ""
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontroller.cpp:205
+msgid "blue team"
+msgstr ""
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontroller.cpp:207
+msgid "game"
+msgstr ""
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamemodes/ctf.cpp:192
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamemodes/ctf.cpp:199
+msgctxt "on red flag captured"
+msgid "red"
+msgstr ""
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontroller.cpp:203
+msgid "red team"
+msgstr ""
+
+#: /home/power/code/teeworlds-mods/teeworlds-classPVP/src/game/server/gamecontroller.cpp:209
+msgid "spectators"
+msgstr ""
