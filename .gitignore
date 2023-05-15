@@ -9,7 +9,7 @@ autoexec.cfg
 .vscode
 .cache
 
-InfNext-Server
+ClassPVP-Server
 
 compile_commands.json
 cmake_install.cmake
