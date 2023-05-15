@@ -11,7 +11,7 @@ RUN cmake --build . -t install
 
 # runtime
 FROM alpine:latest AS runtime_env
-WORKDIR /InfNext-Server/
+WORKDIR /ClassPVP-Server/
 RUN apk update && apk upgrade
 RUN apk add --no-cache libstdc++ curl icu icu-data-full
 COPY --from=build_env /install .
